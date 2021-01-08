@@ -1,0 +1,5 @@
+export enum Pokemonstype {
+  LOAD_POKEMON = "LOAD_POKEMON",
+  SUCCESSFUL_LOAD = "SUCCESSFUL_LOAD",
+  FAILURE_LOAD = "FAILURE_LOAD"
+}
